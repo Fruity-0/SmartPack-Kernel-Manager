@@ -703,7 +703,7 @@
     <string name="nr_requests_summary">Kontroluje, ile żądań może być przydzielonych w warstwie bloków dla żądań odczytu lub zapisu.</string>
 
     <!-- Kernel Samepage Merging -->
-    <string name="full_scans">Full scans</string>
+    <string name="full_scans">Pełne skany</string>
     <string name="pages_shared">Pages shared</string>
     <string name="pages_sharing">Pages sharing</string>
     <string name="pages_unshared">Pages unshared</string>
